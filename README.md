@@ -3,5 +3,5 @@ The goal is to get data from a database and then display it in little responsive
 
 TODO:<br>
 delete JQUERY<br>
-make responsive
+make responsive<br>
 echo elements for php traning
